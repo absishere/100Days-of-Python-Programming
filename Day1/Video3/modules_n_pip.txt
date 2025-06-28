@@ -1,0 +1,4 @@
+Here, I learnt about modules and pip in python.
+So, there are two types of modules - in-built modules and external modules.
+To use External modules we need to use pip to install them.
+That's it.
